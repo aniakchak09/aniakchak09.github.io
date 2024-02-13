@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .body {
+        flex-direction: column;
+    }
+
+    div {
+        width: 90%;
+        padding: 10px;
+    }
+
+  .forAll {
+    display: none;
+  }
+}
