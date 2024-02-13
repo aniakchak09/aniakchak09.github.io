@@ -10,7 +10,7 @@ body {
     margin: 0;
     text-align: center;
     color: white;
-    background-color: #ff1493;
+    background-color: hotpink;
 }
 
 div {
@@ -27,8 +27,8 @@ h2 {
 .heart {
     position: fixed;
     background-color: red;
-    height: 20px;
-    width: 20px;
+    height: 25px;
+    width: 25px;
     clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 50% 62%, 18% 100%, 0% 38%);
     animation: flaot 2s ease-in-out infinite;
     rotate: 180deg;
