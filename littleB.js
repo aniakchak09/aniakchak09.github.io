@@ -1,8 +1,7 @@
 var button = document.querySelector('button');
 var div = document.querySelector('div');
 
-var pictures = ['pics/OMG.jpg', 'pics/pic1.jpg', 'pics/pic2.jpg', 'pics/pic3.jpg', 'pics/pic4.jpg', 'pics/pic5.jpg', 'pics/pic6.jpg', 'pics/pic7.jpg', 'pics/pic8.jpg', 'pics/pic9.jpg', 'pics/pic10.jpg']
-
+var pictures = ['pics/OMG.jpg', 'pics/pic1.jpg', 'pics/pic2.jpg', 'pics/pic3.jpg', 'pics/pic4.jpg', 'pics/pic5.jpg', 'pics/pic6.jpg', 'pics/pic7.jpg', 'pics/pic8.jpg', 'pics/pic9.jpg', 'pics/pic10.jpg', 'pics/pic11.jpg', 'pics/pic12.jpg', 'pics/pic13.jpg', 'pics/pic14.jpg', 'pics/pic15.jpg']
 button.addEventListener('click', function() {
     var current = div.querySelector('img');
 
