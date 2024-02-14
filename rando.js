@@ -21,7 +21,7 @@ function randomEmoji() {
 
     setTimeout(function() {
         document.body.removeChild(emoji);
-    }, 10000);
+    }, 2500);
 }
 
 setInterval(randomEmoji, 250);
