@@ -46,11 +46,11 @@ button, a, input[type="submit"], input[type="button"] {
     height: 30px;
     width: 30px;
     clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 50% 62%, 18% 100%, 0% 38%);
-    animation: flaot 2s ease-in-out infinite;
+    animation: float 2s ease-in-out infinite;
     rotate: 180deg;
 }
 
-@keyframes flaot {
+@keyframes float {
     0% {
         transform: translateY(0px);
         opacity: 2;

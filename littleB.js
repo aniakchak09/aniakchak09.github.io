@@ -30,4 +30,4 @@ function moveButton() {
     button.style.top = y + 'px';
 }
 
-setInterval(moveButton, 900);
+setInterval(moveButton, 1000);
